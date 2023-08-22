@@ -14,3 +14,7 @@ Instruction
 
 6)Run "npm run dev"
 
+![spotify](https://github.com/Kumarsatwik/Spotify-Clone/assets/38569860/0457b225-5521-405d-a35a-8b8275add7df)
+
+
+
